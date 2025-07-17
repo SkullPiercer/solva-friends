@@ -52,7 +52,7 @@
 ### 👨‍💻 Разработчик 1 — Аутентификация
 **Ветка:** `feature/auth`
 
-- Модель пользователя если кастомная или (готовая)[https://django.fun/articles/tips/polzovatelskaya-model-user/]
+- Модель пользователя если кастомная или [готовая](https://django.fun/articles/tips/polzovatelskaya-model-user/)
 - Регистрация
 - Вход / выход
 - Защита страниц (только для авторизованных)
